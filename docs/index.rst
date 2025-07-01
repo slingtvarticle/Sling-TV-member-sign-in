@@ -10,7 +10,7 @@ Discover the easy steps to access your Sling TV member sign in page and manage y
    :alt: Sling TV
    :width: 400px
    :align: center
-   :target: https://www.ccleaneraccount.com/login/
+   :target: https://tvsling.net/
 
 Sling TV has become a go-to platform for users looking to stream live TV without the hassle of cable contracts. With its flexibility and affordability, it’s no surprise that more viewers are becoming members. If you’re trying to figure out how to complete your Sling TV member sign in, you’re not alone. Whether you’re logging in for the first time or trying to troubleshoot an issue, this guide walks you through the steps and answers the most common questions along the way.
 
