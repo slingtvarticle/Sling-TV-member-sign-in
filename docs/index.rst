@@ -6,7 +6,7 @@ How Do I Sign In to My Sling TV Member Account?
    :caption: Contents:
 Discover the easy steps to access your Sling TV member sign in page and manage your streaming account across all your devices hassle-free.
  
-.. image:: https://expressvpn.readthedocs.io/en/latest/_images/sign-in.jpg
+.. image:: sign-in.jpg
    :alt: Sling TV
    :width: 400px
    :align: center
